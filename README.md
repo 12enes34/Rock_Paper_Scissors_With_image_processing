@@ -7,3 +7,14 @@ HOW TO PLAY?
 5)DOWNLOAD THE image-classification-rock-paper-scissor-cnn.ipynb AND RUN 
 !!!!!! All files must be in the same path
 WAIT YOUR TRAIN AND START THE GAME , ENJOY
+
+
+IF YOU GAME HAS ERROR PLS CHECK YOUR PATH
+
+Here's what your files should look like:
+
+paper
+rock
+scıssors
+Resources
+image-classification-rock-paper-scissor-cnn.ipynb
